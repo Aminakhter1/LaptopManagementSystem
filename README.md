@@ -33,12 +33,8 @@ Installation
 Prerequisites:
 Node.js and npm installed.
 MongoDB installed locally or a cloud database (MongoDB Atlas).
-1. Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/laptop-management-system.git
-cd laptop-management-system
-2. Install dependencies:
+
+1. Install dependencies:
 bash
 Copy code
 # For backend
